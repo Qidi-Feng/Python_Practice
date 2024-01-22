@@ -7,3 +7,4 @@ if __name__ == '__main__':
 	print(any(i.isupper() for i in s))
 
 ##this is for git test
+##OK this is another test
