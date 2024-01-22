@@ -5,3 +5,5 @@ if __name__ == '__main__':
 	print(any(i.isdigit() for i in s))
 	print(any(i.islower() for i in s))
 	print(any(i.isupper() for i in s))
+
+##this is for git test
